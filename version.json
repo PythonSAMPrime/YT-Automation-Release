@@ -1,17 +1,16 @@
 {
-  "latest_version": "1.6.0",
-  "min_required_version": "1.6.0",
+  "latest_version": "1.7.0",
+  "min_required_version": "1.7.0",
   "force_update": true,
   "title": "YouTube Automation Manager Update",
   "title_km": "ការធ្វើបច្ចុប្បន្នភាព YouTube Automation Manager",
   "message": "A new version of YouTube Automation Manager is available with the latest features and stability fixes.",
   "message_km": "មានកំណែថ្មីនៃ YouTube Automation Manager ជាមួយមុខងារទំនើបៗ និងការជួសជុលប្រព័ន្ធឱ្យកាន់តែមានស្ថេរភាព។",
   "release_notes": [
-    "Table data progress bar styling refinement with 5px right padding to prevent clipping",
-    "Performance optimization for bulk video detection in channel folders (eliminates UI lag)",
-    "Correct upload schedule time display for Custom schedules in the Scheduler table",
-    "Optimized folder change detection and debounced background scanning",
-    "Security, UI responsiveness, and stability improvements"
+    "Telegram Notification Service for real-time mobile upload alerts (Channel name, schedule time, video title, success/failure status)",
+    "Desktop event filter performance boost eliminating packaged application UI lag",
+    "Fully responsive table data columns, rows, and progress bars across all screen sizes",
+    "System security, UI responsiveness, and stability enhancements"
   ],
   "download_url": "https://github.com/PythonSAMPrime/YT-Automation-Release/releases/latest"
 }
