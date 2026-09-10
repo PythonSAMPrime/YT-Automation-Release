@@ -1,17 +1,16 @@
 {
-  "latest_version": "1.4.0",
-  "min_required_version": "1.4.0",
+  "latest_version": "1.5.0",
+  "min_required_version": "1.5.0",
   "force_update": true,
   "title": "YouTube Automation Manager Update",
   "title_km": "ការធ្វើបច្ចុប្បន្នភាព YouTube Automation Manager",
   "message": "A new version of YouTube Automation Manager is available with the latest features and stability fixes.",
   "message_km": "មានកំណែថ្មីនៃ YouTube Automation Manager ជាមួយមុខងារទំនើបៗ និងការជួសជុលប្រព័ន្ធឱ្យកាន់តែមានស្ថេរភាព។",
   "release_notes": [
-    "Optimized instant tab switching and language transition without window opacity drop",
-    "Font typography enhancement: Battambang (Regular & Bold) for Khmer and Segoe UI (Regular & Semibold) for English",
-    "Single-Instance Application Lock (prevent multiple instances running simultaneously)",
-    "Auto Schedule Date & Time Controls refinement (Full box clickability & no clipping)",
-    "Security and performance improvements"
+    "Performance optimization for bulk video detection in channel folders (eliminates UI lag)",
+    "Correct upload schedule time display for Custom schedules in the Scheduler table",
+    "Optimized folder change detection and debounced background scanning",
+    "Security, UI responsiveness, and stability improvements"
   ],
   "download_url": "https://github.com/PythonSAMPrime/YT-Automation-Release/releases/latest"
 }
